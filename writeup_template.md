@@ -17,7 +17,7 @@ The goals of this project are the following:
 [//]: # (Image References)
 
 [image1]: https://github.com/rsald09/JHS-PizzaMaker-Assignment/blob/master/Images/WIN_20191202_09_19_10_Pro.jpg "image_example1"
-[image2]: https://github.com/userName/JHS-Elevator-Assignment/blob/master/images/image_example2.JPG "image_example2"
+[image2]: https://github.com/rsald09/JHS-PizzaMaker-Assignment/blob/master/Images/picture%20for%20pizza%20maker.png?raw=true
 [image3]: https://github.com/userName/JHS-Elevator-Assignment/blob/master/images/image_example3.JPG "image_example3"
 
 ## Rubric Points
