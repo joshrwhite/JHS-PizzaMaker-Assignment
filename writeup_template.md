@@ -29,8 +29,8 @@ The goals of this project are the following:
 #### 1. Design Constraints - All design constraints are met and the prototype goes above and beyond.
 
 My project includes the following elements to meet the design constraints:
-* Element 1
-* Element 2
+* Design was created with Fischertechniks in mind
+* Prototype was implemented through Fischertechnik
 
 #### 2. Repeatability of Function - The build is repeatable 100% of the time.
 
@@ -41,8 +41,8 @@ My build includes fischertechnik components to ensure repeatability. For example
 #### 1. Design Constraints - All design constraints are met and the prototype goes above and beyond.
 
 My project includes the following elements to meet the design constraints:
-* Element 1
-* Element 2
+* Prototype was programmed through ROBOPro
+* Comments communicate the process of the program
 
 Here are some pictures of my code:
 
